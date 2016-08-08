@@ -1,0 +1,32 @@
+_repo: Love-under-Fire_12015
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kimball, Alonzo
+    birthdate: 1874
+    deathdate: &id001 1923
+    gutenberg_agent_id: '8161'
+    url: http://www.gutenberg.org/2009/agents/8161
+creator:
+  author:
+    agent_name: Parrish, Randall
+    birthdate: 1858
+    deathdate: *id001
+    gutenberg_agent_id: '2217'
+    url: http://www.gutenberg.org/2009/agents/2217
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12015'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Love under Fire
+url: http://www.gutenberg.org/ebooks/12015
